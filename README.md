@@ -1,4 +1,4 @@
-# WPSE477 FSR module
+# FSR sensor module
 
 This example shows how to measure the output of the FSR (Force Sensing Resistor) module with an Arduino® compatible board.
 
